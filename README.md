@@ -1,2 +1,3 @@
 # hello-world
-this is the first repo I'm doing
+
+Sloth is my sin. It gets me to nowhere stucked in the middle without nothing.
